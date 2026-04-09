@@ -4,8 +4,8 @@
 
 ```
  Location:   Taormina, Sicily 🌋
- Role:       Senior Android Developer @ ShopFully
- Side Quest: Building indie apps @ Vikey Studio
+ Role:       Senior Android Developer @ShopFully
+ Side Quest: Building indie apps @VikeyStudio
  XP:         10+ years of Android
 ```
 
