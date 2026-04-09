@@ -29,14 +29,14 @@ I'm obsessed with understanding **real user problems** before writing a single l
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4>🩺 <a href="https://github.com/vikey89/kidlog">KidLog</a></h4>
+<h4>🩺 <a href="https://play.google.com/store/apps/details?id=com.vikeystudio.kidlog">KidLog</a></h4>
 <strong>Pediatric health tracker for parents</strong><br>
 <em>Track your children's illness episodes with timelines, document scanning, and smart history. Built for parents who want data, not guesswork.</em><br><br>
 <code>Kotlin</code> <code>Compose</code> <code>ML Kit</code> <code>Room</code> <code>Zero Server Costs</code><br><br>
 <img src="https://img.shields.io/badge/status-live-A9DC76?style=flat-square" /> <img src="https://img.shields.io/badge/model-freemium-F8C762?style=flat-square" />
 </td>
 <td width="50%" valign="top">
-<h4>📓 <a href="https://github.com/vikey89/devlog">DevLog</a></h4>
+<h4>📓 <a href="https://vikey89.github.io/DevLog">DevLog</a></h4>
 <strong>CLI dev diary generator from git history</strong><br>
 <em>Generates structured development diary entries from your git commits. Never forget what you shipped.</em><br><br>
 <code>Kotlin</code> <code>Clikt</code> <code>GraalVM Native Image</code> <code>CLI</code><br><br>
